@@ -1,9 +1,9 @@
 
+<h1 align="center">Hi 👋, I'm Karmina</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/eMJXDJqSOVzQjFJ8Wv/giphy.gif" width="200" text-align="left"/>
 </div>
-<h1 align="center">Hi 👋, I'm Karmina</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
