@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Egypt City
 * 🖥️  See my portfolio at [karmina emad](http://myapp.com)
-* ✉️  You can contact me at [https://www.linkedin.com/in/karmina-emad-3b7071269](mailto:https://www.linkedin.com/in/karmina-emad-3b7071269)
+* ✉️  You can contact me at [https://www.linkedin.com/in/karmina-emad-3b7071269](https://www.linkedin.com/in/karmina-emad-3b7071269)
 * 🚀  I'm currently working on [new project](http://myapp.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
