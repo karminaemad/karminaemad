@@ -2,13 +2,13 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karmina
 ===============================================================================================================================
-
-Frontend Developer <div id="header" align="center">
-  <img src="https://media.giphy.com/media/eMJXDJqSOVzQjFJ8Wv/giphy.gif" width="100" text-align="left"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/eMJXDJqSOVzQjFJ8Wv/giphy.gif" width="100"/>
+  <h2>Frontend Developer</h2>
 </div>
-------------------
 
-I am not a graduate from any field of technology, but I am interested in self-learning. I loved programming, especially web programming, so I hope to become proficient in it one day. (Do not stop learning).
+  <p>I am not a graduate from any field of technology, but I am interested in self-learning. I loved programming, especially web programming, so I hope to become proficient in it one day. (Do not stop learning).</p>
+
 
 * 🌍  I'm based in Egypt City
 * 🖥️  See my portfolio at [karmina emad](http://myapp.com)
