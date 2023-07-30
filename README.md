@@ -1,14 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Karmina</h1>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/eMJXDJqSOVzQjFJ8Wv/giphy.gif" width="200" text-align="left"/>
-</div>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karmina
 ===============================================================================================================================
 
-Frontend Developer
+Frontend Developer <div id="header" align="center">
+  <img src="https://media.giphy.com/media/eMJXDJqSOVzQjFJ8Wv/giphy.gif" width="100" text-align="left"/>
+</div>
 ------------------
 
 I am not a graduate from any field of technology, but I am interested in self-learning. I loved programming, especially web programming, so I hope to become proficient in it one day. (Do not stop learning).
