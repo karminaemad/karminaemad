@@ -3,7 +3,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karmina
 ===============================================================================================================================
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/eMJXDJqSOVzQjFJ8Wv/giphy.gif" width="150"/>
+  <img src='https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif' />
+
   <h2>Frontend Developer</h2>
 </div>
 
