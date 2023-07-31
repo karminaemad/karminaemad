@@ -1,13 +1,8 @@
-
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karmina
-===============================================================================================================================
+<h1>Hi,I'm karmina<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <div id="header" align="center">
   <img src='https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif' width='350' />
-
-  <h2>Frontend Developer</h2>
+  <h2>Frontend Developer👨‍💻</h2>
 </div>
-
   <p>I am not a graduate from any field of technology, but I am interested in self-learning. I loved programming, especially web programming, so I hope to become proficient in it one day. (Do not stop learning).</p>
 
 
@@ -19,7 +14,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Don't Give up
 
-### Skills
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  Skills </h2>
+
+
 
 
 <p align="left">
@@ -33,13 +30,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 
-### Socials
-
+<h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">Socials</h2>
 <p align="left"> <a href="https://www.dev.to/karminaemad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/karminaemad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/karminaemad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b>My GitHub Stats</b>
 
 <a href="http://www.github.com/karminaemad"><img src="https://github-readme-stats.vercel.app/api?username=karminaemad&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="karminaemad's GitHub stats" /></a>
 
