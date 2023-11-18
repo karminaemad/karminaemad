@@ -37,16 +37,6 @@
 <a href="https://www.linkedin.com/in/karmina-emad-3b7071269" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
-
-### Badges
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b>My GitHub Stats</b>
-
-<a href="http://www.github.com/karminaemad"><img src="https://github-readme-stats.vercel.app/api?username=karminaemad&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="karminaemad's GitHub stats" /></a>
-
-<a href="http://www.github.com/karminaemad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=karminaemad&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/karminaemad"><img src="https://github-readme-stats.vercel.app/api?username=karminaemad&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="karminaemad's GitHub stats" /></a>
